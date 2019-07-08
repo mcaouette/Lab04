@@ -6,6 +6,7 @@ public class SciCalculator {
         int operation = 0;
         
         //comment git test
+        //comment # 2
         double currentResult = 0;
         double totalResult=0;
         double firstOperand=0;
