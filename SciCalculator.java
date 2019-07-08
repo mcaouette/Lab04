@@ -4,7 +4,8 @@ public class SciCalculator {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         int operation = 0;
-
+        
+        //comment git test
         double currentResult = 0;
         double totalResult=0;
         double firstOperand=0;
